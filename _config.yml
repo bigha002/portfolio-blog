@@ -1,6 +1,7 @@
 title: Caleb Bigham's Engineering Portfolio
 author: Caleb Bigham
 description: My name is Caleb Bigham and welcome to my engineering portfolio! I am a junior robotics engineering major with a minor in mathematical sciences at Michigan Technological University. I have a diverse skillset, but my specialties are embedded systems, de-noising algorithms, PCB design, and error correction.
+include: ["_pages"]
 plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
